@@ -2,4 +2,5 @@ hello man
 good man
 done push to remote
 new line defined from new branch from colleborator pc
+add new line form 2newbranch and then push to remote 2newbranch
 
