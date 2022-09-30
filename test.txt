@@ -1,3 +1,4 @@
 hello man
 good man
 done push to remote
+switch branch from newbranch to master and add new line then commit and push to master
